@@ -1,4 +1,4 @@
-import apidata from '../components/data'
+import apidata from '../../components/data'
 
 export default function handler(req, res) {
   const{
